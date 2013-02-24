@@ -1,0 +1,1 @@
+pls download from [extended Yale Face Database B人脸库](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html "yalefacedb").
